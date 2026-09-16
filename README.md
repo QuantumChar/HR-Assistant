@@ -5,7 +5,7 @@ A customer-followable guide and sample content pack for building a standalone, g
 
 The assistant provides Tier-1 guidance for HR policies, benefits, leave, payroll, and open
 enrollment. It cites approved sources and directs personal, transactional, decision-related, or
-unsupported requests to HR. It does not connect to the Student Services Assistant.
+unsupported requests to HR.
 
 > [!IMPORTANT]
 > This baseline does not access employee records, make employment decisions, check case status,
@@ -14,8 +14,7 @@ unsupported requests to HR. It does not connect to the Student Services Assistan
 
 ## Start Here
 
-Follow the **[HR Assistant build guide](hr-assistant-build-guide.md)**. It uses the same customer
-journey as the Student Services workshop:
+Follow the **[HR Assistant build guide](hr-assistant-build-guide.md)**.
 
 1. Understand the solution components and safety boundary.
 2. Prepare the Foundry project and model deployments.
